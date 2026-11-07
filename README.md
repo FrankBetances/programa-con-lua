@@ -13,7 +13,7 @@
 
 ---
 
-> **«La app decide. Lúa reacciona. Los bloques los mueve la criatura. La persona adulta media siempre.»**
+> **«La app decide. Lúa reacciona. Los bloques los mueve el niño. El adulto media siempre.»**
 
 **Programa con Lúa** es una iniciativa de tecnología educativa abierta dentro del ecosistema **Earlify Health** (*Valeria+*, *Descubre con Lúa*, *Construye con Lúa*). Su propósito es acercar las bases de la **programación, el pensamiento computacional y la lógica algorítmica** a niños y niñas de **0 a 6 años**, sustituyendo las pantallas interactivas por **bloques físicos manipulables**, la compañía expresiva del juguete **Lúa** y el andamiaje afectivo de una persona adulta mediadora (docente, terapeuta o familia).
 
@@ -46,7 +46,7 @@ Para evitar falsas expectativas tecnológicas y preservar una rigurosa higiene s
 |---|---|
 | Muestra expresiones afectivas en píxel art (24×24), pictogramas de comando, insignias y estados en su pantalla circular de 240×240 px | **No habla, no emite pitidos ni reproduce música:** carece físicamente de altavoz o zumbador piezoeléctrico. El silencio clínico es una garantía de hardware. |
 | Enciende 4 luces direccionales en el cuello para indicar rumbos algorítmicos (*avanza, gira a la izquierda, gira a la derecha*) | **No escucha ni graba sonido:** carece de micrófono, garantizando la privacidad absoluta (Zero-PHI). |
-| Ejecuta opcodes inmediatos (`MOOD`, `PICTO`, `CELEBRATE`, `LIGHT`, `AWARD`) recibidos por BLE | **No se desplaza sola:** no tiene ruedas ni servomotores. La criatura es quien la mueve físicamente. |
+| Ejecuta opcodes inmediatos (`MOOD`, `PICTO`, `CELEBRATE`, `LIGHT`, `AWARD`) recibidos por BLE | **No se desplaza sola:** no tiene ruedas ni servomotores. El niño es quien la mueve físicamente. |
 | Mantiene la atención visual compartida y valida el éxito de las secuencias construidas | **No puntúa, no juzga ni almacena historiales:** actúa como espejo afectivo inmediato del proceso. |
 
 > **Ubicación de la voz:** La voz y las consignas verbales residen **única y exclusivamente en la tableta del adulto**. De este modo, la voz digital jamás compite con la voz humana del mediador ni enmascara la audición de niños con audífonos o implantes cocleares.
@@ -94,7 +94,7 @@ La metodología traslada conceptos abstractos de las ciencias de la computación
 
 ### A. Del Cuerpo al Bloque, del Bloque al Robot (Enfoque TPR)
 Antes de construir con bloques, el niño vive el algoritmo con su propio cuerpo mediante respuestas físicas completas (*Total Physical Response*):
-> *«Step forward, step forward, stop!»* ➔ La criatura da dos pasos y se detiene. Luego traslada esa misma secuencia colocando dos baldosas rectas y una ficha de parada, y finalmente desliza a Lúa por el camino para comprobarlo.
+> *«Step forward, step forward, stop!»* ➔ El niño da dos pasos y se detiene. Luego traslada esa misma secuencia colocando dos baldosas rectas y una ficha de parada, y finalmente desliza a Lúa por el camino para comprobarlo.
 
 ### B. Lateralidad y Perspectiva Unificada
 Uno de los mayores obstáculos para niños de 3 a 5 años es el giro en espejo (la izquierda del robot frente a la suya). Por diseño, **Lúa se opera mirando desde atrás**: la izquierda y derecha de Lúa coinciden estrictamente con la izquierda y derecha del niño, eliminando la sobrecarga cognitiva de rotación mental.
